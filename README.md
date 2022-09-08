@@ -28,3 +28,9 @@ https://api.npms.io/v2/search?q=+keywords:router+react+maintenance-weight:100
 https://api-docs.npms.io/#api-_
 https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md#get-v1search
 https://docs.github.com/es/rest/search#search-repositories
+
+
+---
+
+# UI
+https://www.primefaces.org/primereact/skeleton/
